@@ -1,6 +1,6 @@
 # call_me_maybe
 
-A new Flutter project.
+Project 1, first flutter project
 
 ## Getting Started
 
